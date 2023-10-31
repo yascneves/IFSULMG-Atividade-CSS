@@ -1,0 +1,6 @@
+/* Exercício 1: Alterando Cores 
+a) Crie um arquivo HTML simples com um parágrafo. 
+b) Use CSS para alterar a cor do texto desse parágrafo para vermelho. */
+p {
+  color: red;
+}
