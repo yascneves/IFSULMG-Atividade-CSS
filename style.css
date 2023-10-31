@@ -1,0 +1,7 @@
+/* Exercício 2: Alterando Fontes 
+a) Crie um arquivo HTML com um cabeçalho h1. 
+b) Use CSS para alterar a fonte do cabeçalho para "Arial" e o tamanho para 24px. */
+h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 24px;
+}
