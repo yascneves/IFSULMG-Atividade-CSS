@@ -14,31 +14,51 @@ Novembro de 2023
 ### Descrição dos exercícios:
 
 Exercício 1: Alterando Cores 
+
 a) Crie um arquivo HTML simples com um parágrafo. 
+
 b) Use CSS para alterar a cor do texto desse parágrafo para vermelho.
 
+
 Exercício 2: Alterando Fontes 
+
 a) Crie um arquivo HTML com um cabeçalho h1. 
+
 b) Use CSS para alterar a fonte do cabeçalho para "Arial" e o tamanho para 24px.
 
+
 Exercício 3: Estilizando Links 
+
 a) Crie um arquivo HTML com um link de texto. 
+
 b) Use CSS para alterar a cor do link quando o mouse passa por cima para azul.
 
+
 Exercício 4: Margens e Preenchimento 
+
 a) Crie um arquivo HTML com um elemento div. 
+
 b) Use CSS no elemento div para definir a cor de fundo como cinza, uma margem de 10px e um preenchimento de 20px.
 
+
 Exercício 5: Alinhamento de Texto 
+
 a) Crie um arquivo HTML com três parágrafos. 
+
 b) Use CSS para alinhar o primeiro parágrafo à esquerda, o segundo ao centro e o terceiro à direita.
 
+
 Exercício 6: Estilização de Listas 
+
 a) Crie um arquivo HTML com uma lista não ordenada (ul) contendo três itens de lista (li). 
+
 b) Use CSS para remover os marcadores de lista e definir a cor de texto dos itens de lista para azul.
 
+
 Exercício 7: Fundo Gradiente 
+
 a) Crie um arquivo HTML com uma div. 
+
 b) Use CSS para aplicar um fundo gradiente linear à div, começando com a cor vermelha (#FF5733) no topo e terminando com a cor amarela (#FFC300) na parte inferior.
 
 Exercício 8: Layout com Divs 
