@@ -1,0 +1,15 @@
+/* Exercício 5: Alinhamento de Texto 
+a) Crie um arquivo HTML com três parágrafos. 
+b) Use CSS para alinhar o primeiro parágrafo à esquerda, o segundo ao centro e o terceiro à direita. */
+
+.p-1 {
+  text-align: left;
+}
+
+.p-2 {
+  text-align: center;
+}
+
+.p-3 {
+  text-align: right;
+}
