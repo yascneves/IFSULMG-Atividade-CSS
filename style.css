@@ -1,0 +1,6 @@
+/* Exercício 3: Estilizando Links 
+a) Crie um arquivo HTML com um link de texto. 
+b) Use CSS para alterar a cor do link quando o mouse passa por cima para azul. */
+a:hover {
+  color: #e11763;
+}
