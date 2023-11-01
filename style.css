@@ -1,1 +1,12 @@
-/*  */
+/* Exercício 9: Estilização de Botões 
+a) Crie um arquivo HTML com um botão. 
+b) Use CSS para estilizar o botão com bordas arredondadas, uma cor de fundo e uma cor de texto personalizadas quando o mouse passa por cima. */
+button {
+  background-color: rgb(83, 75, 91);
+  color: bisque;
+  border-radius: 30vh;
+}
+
+button:hover {
+  color: rgb(208, 182, 232);
+}
