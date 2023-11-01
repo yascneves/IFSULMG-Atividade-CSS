@@ -15,7 +15,8 @@ html {
   background-repeat: no-repeat;
   height: 1000%;
   width: 100%;
-  font-family: ;
+  font-family: monospace;
+  font-size: 20px;
 }
 
 nav {
