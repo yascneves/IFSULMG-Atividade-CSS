@@ -1,1 +1,40 @@
-/*  */
+/* Exercício 10: Menu de Navegação 
+a) Crie um arquivo HTML com uma barra de menu de navegação horizontal. 
+b) Use CSS para estilizar o menu, aplicando cores de fundo, espaçamento entre os itens e uma transição suave de cor ao passar o mouse sobre os itens. */
+html {
+  background: rgb(34, 193, 195);
+  background: linear-gradient(
+    173deg,
+    rgba(34, 193, 195, 1) 0%,
+    rgba(253, 187, 45, 1) 100%
+  );
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+  font-family:;
+}
+
+nav{
+  background: rgb(2, 26, 26);
+  text-align: center;
+}
+
+nav ul{
+  display:inline-flex;
+  list-style: none;
+}
+
+nav ul li{
+  width: 30%;
+  margin: 15px;
+  padding: 15px;
+}
+
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+nav ul li a:hover{
+  color:rgba(253, 187, 45, 1) ;
+}
