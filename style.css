@@ -1,0 +1,8 @@
+/* Exercício 6: Estilização de Listas 
+a) Crie um arquivo HTML com uma lista não ordenada (ul) contendo três itens de lista (li). 
+b) Use CSS para remover os marcadores de lista e definir a cor de texto dos itens de lista para azul. */
+
+li{
+  color: blue;
+  list-style: none;
+}
