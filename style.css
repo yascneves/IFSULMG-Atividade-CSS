@@ -1,1 +1,24 @@
-/*  */
+/* Exercício 8: Layout com Divs 
+a) Crie um arquivo HTML com uma estrutura de layout usando divs. 
+b) Use CSS para criar um layout de duas colunas, onde a primeira coluna ocupa 30% da largura e a segunda coluna ocupa 70%. Coloque cores de fundo diferentes para cada div para visualizarmos a proporção de cada div(coluna) mais facilmente */
+
+body {
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+.coluna-1 {
+  background: linear-gradient(180deg, #ff5733 0%, #ffc300 100%);
+  position: absolute;
+  left: 30%;
+  width: 70%;
+  height: 100%;
+}
+
+.coluna-2 {
+  background: linear-gradient(180deg, #ff33dd 0%, #0091ff 100%);
+  position: absolute;
+  width: 30%;
+  height: 100%;
+}
